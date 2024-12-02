@@ -31,7 +31,8 @@ public class Main {
         System.out.println("Today is " + month + " " + day + ", " + year);
         System.out.println("-----------------------------------------");
         System.out.println();
-        System.out.print("please paste filename including the extension you wish to convert to text: " + baseUrl);
+        System.out.println("please paste filename including the extension you wish to convert to text:");
+        System.out.print(baseUrl);
         fileUrl = input.nextLine();
         System.out.print("please enter the name for your text file ");
         outputTextFile = input.nextLine();
