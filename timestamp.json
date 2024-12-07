@@ -1,0 +1,96 @@
+Optional[[{
+  "confidence" : 0.9981,
+  "start" : 640,
+  "end" : 752,
+  "text" : "When"
+}, {
+  "confidence" : 0.99994,
+  "start" : 752,
+  "end" : 864,
+  "text" : "are"
+}, {
+  "confidence" : 0.99983,
+  "start" : 864,
+  "end" : 992,
+  "text" : "we"
+}, {
+  "confidence" : 0.99991,
+  "start" : 992,
+  "end" : 1104,
+  "text" : "going"
+}, {
+  "confidence" : 0.9999,
+  "start" : 1104,
+  "end" : 1184,
+  "text" : "to"
+}, {
+  "confidence" : 0.99993,
+  "start" : 1184,
+  "end" : 1280,
+  "text" : "get"
+}, {
+  "confidence" : 0.99985,
+  "start" : 1280,
+  "end" : 1408,
+  "text" : "the"
+}, {
+  "confidence" : 0.924,
+  "start" : 1408,
+  "end" : 1608,
+  "text" : "boat"
+}, {
+  "confidence" : 0.99994,
+  "start" : 1633,
+  "end" : 1753,
+  "text" : "out"
+}, {
+  "confidence" : 0.99971,
+  "start" : 1769,
+  "end" : 1849,
+  "text" : "of"
+}, {
+  "confidence" : 0.99977,
+  "start" : 1857,
+  "end" : 2001,
+  "text" : "the"
+}, {
+  "confidence" : 0.99995,
+  "start" : 2033,
+  "end" : 2369,
+  "text" : "water?"
+}, {
+  "confidence" : 0.99928,
+  "start" : 2457,
+  "end" : 2609,
+  "text" : "I"
+}, {
+  "confidence" : 0.99999,
+  "start" : 2617,
+  "end" : 2737,
+  "text" : "think"
+}, {
+  "confidence" : 0.99537,
+  "start" : 2761,
+  "end" : 2937,
+  "text" : "it's"
+}, {
+  "confidence" : 0.99995,
+  "start" : 2961,
+  "end" : 3073,
+  "text" : "going"
+}, {
+  "confidence" : 0.99995,
+  "start" : 3089,
+  "end" : 3217,
+  "text" : "to"
+}, {
+  "confidence" : 0.99005,
+  "start" : 3241,
+  "end" : 3545,
+  "text" : "freeze"
+}, {
+  "confidence" : 0.99978,
+  "start" : 3585,
+  "end" : 3665,
+  "text" : "soon."
+}]]

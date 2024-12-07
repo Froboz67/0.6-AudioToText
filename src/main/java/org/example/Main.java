@@ -58,6 +58,7 @@ public class Main {
         }
         System.out.println(transcript.getText().get());
         System.out.println(transcript.getWords());
+        System.out.println(transcript.getSummary());
 
         /*
         Code below creates and saves the audio transcription as a text file
